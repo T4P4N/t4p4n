@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm tapan kashyap 
 
-<!--
-**T4P4N/t4p4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Things i'm doing right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal django projects
+- 🌱 I’m currently learning django & react.
+- ❤️ I love linux & command line.
+- 💻 I use vscode as IDE (unfortunately), also hail tmux.
+
+## GitHub Stats
+
+![T4P4N's GitHub stats](https://github-readme-stats.vercel.app/api?username=t4p4n&theme=chartreuse-dark&show_icons=&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t4p4n&layout=compact&theme=chartreuse-dark)]()
+
+<hr>
