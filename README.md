@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my personal django projects
 - 🌱 I’m currently learning django & react.
 - ❤️ I love linux & command line.
-- 💻 I use vscode as IDE (unfortunately), also hail tmux.
+- 💻 I use vscode as IDE, also hail tmux.
 <hr>
 
 ### My GitHub Stats
