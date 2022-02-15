@@ -1,9 +1,9 @@
-## 👋 I'm Tapan Kashyap, A Budding Web Developer !
+## 👋 I'm Tapan Kashyap, A Full Stack Web Developer !
 
 ### Things i'm doing right now:
 
-- 🔭 I’m currently working on my personal django projects
-- 🌱 I’m currently learning django & react.
+- 🔭 I’m currently working on my own Projects & Apps
+- 🌱 I’m currently looking for jobs.
 - ❤️ I love linux & command line.
 - 💻 I use vscode as IDE, also hail tmux.
 <hr>
