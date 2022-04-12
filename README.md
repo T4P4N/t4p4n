@@ -11,7 +11,5 @@
 
 ### My GitHub Stats
 
-![T4P4N's GitHub stats](https://github-readme-stats.vercel.app/api?username=t4p4n&theme=chartreuse-dark&show_icons&private_count=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t4p4n&layout=compact&theme=chartreuse-dark)]()
-
-<hr>
+![T4P4N's GitHub stats](https://github-readme-stats.vercel.app/api?username=t4p4n&theme=github_dark&show_icons&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t4p4n&layout=compact&theme=github_dark)]()
