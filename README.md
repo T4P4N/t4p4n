@@ -2,11 +2,11 @@
 
 ### Things i'm doing right now:
 
-- 🔭 I’m currently working on my own Projects & Apps
-- 🌱 I’m actively looking for jobs.
+- 🔭 I’m currently learning ruby on rails.
+- 🌱 I like plants & birds.
 - ❤️ I love linux & command line.
 - 💻 I use vscode as IDE, also hail tmux.
-- 👨‍💻 Django & DRF + Reactjs + Redux(in progress)
+- 👨‍💻 Django / Rails + Reactjs + Redux(in progress)
 <hr>
 
 ### My GitHub Stats
