@@ -2,11 +2,11 @@
 
 ### Things i'm doing right now:
 
-- 🔭 I’m currently learning nestjs.
+- 🔭 I’m currently building stuff.
 - 🌱 I like plants & birds.
 - ❤️ I love linux & command line.
 - 💻 I use vscode as IDE, also hail tmux.
-- 👨‍💻 Django / Rails / NestJs(in progress) + Reactjs + Redux(in progress)
+- 👨‍💻 Django / Rails / NestJs + Reactjs 
 <hr>
 
 ### My GitHub Stats
