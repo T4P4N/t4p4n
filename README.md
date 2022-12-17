@@ -1,9 +1,9 @@
-## 👋 I'm Tapan Kashyap, A Full Stack Web Developer !
+## 👋 I'm Tapan Kashyap, A Soy Developer!
 
 ### Things i'm doing right now:
 
 - 🔭 I’m currently building stuff.
-- 🌱 I like plants & birds.
+- 🌱 I love plants & birds & nightwalks & sunsets.
 - ❤️ I love linux & command line.
 - 💻 I use vscode as IDE, also hail tmux.
 - 👨‍💻 Django / Rails / NestJs + Reactjs 
