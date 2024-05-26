@@ -2,11 +2,12 @@
 
 ### Things i'm doing right now:
 
-- 🔭 I’m currently building stuff.
+- 🔭 I’m currently building shopify apps.
 - 🌱 I love plants & birds & nightwalks & sunsets.
 - ❤️ I love linux & command line.
 - 💻 I use vscode as IDE, also hail tmux.
-- 👨‍💻 Django / Rails / NestJs + Reactjs 
+- 👨‍💻 Django / Rails / NestJs + Reactjs
+- ✏️ I write blogs at [t4p4n.github.io](https://t4p4n.github.io)
 <hr>
 
 ### My GitHub Stats
